@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div><b>MKT GENERATORS</b><p>Diesel generator sets, power solutions, and export support.</p></div><div><a href="/generators">Products</a><a href="/downloads">Downloads</a><a href="/rfq">Request Quote</a></div></footer>}
