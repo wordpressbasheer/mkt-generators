@@ -1,0 +1,12 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="520" fill="#111820"/>
+<rect x="120" y="155" width="620" height="230" rx="8" fill="#26313A" stroke="#53616B" stroke-width="6"/>
+<rect x="175" y="195" width="350" height="145" rx="4" fill="#009CA6"/>
+<rect x="570" y="195" width="115" height="145" rx="4" fill="#0B0F13"/>
+<path d="M585 214H672M585 240H672M585 266H672M585 292H672M585 318H672" stroke="#53616B" stroke-width="8"/>
+<rect x="95" y="385" width="670" height="42" rx="4" fill="#080C10"/>
+<circle cx="175" cy="445" r="28" fill="#0B0F13" stroke="#FF8A00" stroke-width="8"/>
+<circle cx="675" cy="445" r="28" fill="#0B0F13" stroke="#FF8A00" stroke-width="8"/>
+<text x="450" y="285" text-anchor="middle" fill="white" font-family="Arial" font-size="64" font-weight="700">MKT</text>
+<text x="450" y="80" text-anchor="middle" fill="#FF8A00" font-family="Arial" font-size="28" font-weight="700">DIESEL GENERATOR SET</text>
+</svg>
